@@ -1,0 +1,11 @@
+Model Information:
+* title:	Rotiform DAB
+* source:	https://sketchfab.com/3d-models/rotiform-dab-48ff08bbf17b43b4abbc2ee9113be954
+* author:	blakebella (https://sketchfab.com/blakebella)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Rotiform DAB" (https://sketchfab.com/3d-models/rotiform-dab-48ff08bbf17b43b4abbc2ee9113be954) by blakebella (https://sketchfab.com/blakebella) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
